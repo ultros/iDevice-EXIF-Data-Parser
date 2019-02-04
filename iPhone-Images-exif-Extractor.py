@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''iPhone-Images-EXIF-extractor.py; December 17th, 2012
-contact@nsa.sh
+contact@nsa.sh, realjesseshelley@gmail.com
 
     iPhone-Images-EXIF-extractor.py quickly extracts certain
     iPhone pertinent JPEG EXIF data. Pertinent data in this
